@@ -1,0 +1,4 @@
+openai >= 1.0  # Asegúrate de usar la versión más reciente
+requests
+python-dotenv # Para manejar claves de API de forma segura
+PyGithub     # Opcional, alternativa a requests para GitHub
